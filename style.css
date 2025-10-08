@@ -17,7 +17,7 @@ nav.navbar {
 }
 .cover {
     height: 500px;
-    background-image: url(/images/cafe.jpg);
+    background-image: url(./images/cafe.jpg);
     color: white;
     background-size: cover;
     background-position: center;
@@ -101,3 +101,4 @@ nav.navbar {
   100% { transform: translateX(0%); }
 
 }
+
